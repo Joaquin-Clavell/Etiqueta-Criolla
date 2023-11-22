@@ -1,0 +1,312 @@
+[
+    {
+        "id": "sombreros01",
+        "titulo": "Sombrero Lagomarsino (algodon ventilado)",
+        "imagen": "./Imagenes/sombrero01.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "sombreros02",
+        "titulo": "Sombrero Lagomarsino (algodon ventilado)",
+        "imagen": "./Imagenes/sombrero02.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "sombreros03",
+        "titulo": "Sombrero Lagomarsino (algodon ventilado)",
+        "imagen": "./Imagenes/sombrero01.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "sombreros04",
+        "titulo": "Sombrero de Paño",
+        "imagen": "./Imagenes/sombrero03.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "sombreros05",
+        "titulo": "Sombrero de Paño",
+        "imagen": "./Imagenes/sombrero04.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "sombreros06",
+        "titulo": "Sombrero de Paño",
+        "imagen": "./Imagenes/sombrero05.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "sombreros01",
+        "titulo": "Sombrero de Paño",
+        "imagen": "./Imagenes/sombrero06.jpeg",
+        "categoria": {
+            "nombre": "Sombreros",
+            "id": "sombreros"
+        },
+        "precio": 20000
+    },
+    {
+        "id": "boina01",
+        "titulo": "Boina Tolosa de paño vuelo 34",
+        "imagen": "./Imagenes/boina01.jpeg",
+        "categoria": {
+            "nombre": "Boinas",
+            "id": "boinas"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "boina02",
+        "titulo": "Boina Tolosa de paño vuelo 34",
+        "imagen": "./Imagenes/boina02.jpeg",
+        "categoria": {
+            "nombre": "Boinas",
+            "id": "boinas"
+        },
+        "precio": 35000
+    },
+    {
+        "id": "bufanda01",
+        "titulo": "Bufanda Pampa",
+        "imagen": "./Imagenes/bufanda01.jpeg",
+        "categoria": {
+            "nombre": "Bufandas",
+            "id": "bufandas"
+        },
+        "precio": 8800
+    },
+    {
+        "id": "bufanda02",
+        "titulo": "Bufanda Pampa",
+        "imagen": "./Imagenes/bufanda02.jpeg",
+        "categoria": {
+            "nombre": "Bufandas",
+            "id": "bufandas"
+        },
+        "precio": 8800
+    },
+    {
+        "id": "faja01",
+        "titulo": "Faja al Telar",
+        "imagen": "./Imagenes/bufanda03.jpeg",
+        "categoria": {
+            "nombre": "Fajas",
+            "id": "fajas"
+        },
+        "precio": 19800
+    },
+    {
+        "id": "faja02",
+        "titulo": "Faja al Telar",
+        "imagen": "./Imagenes/bufanda04.jpeg",
+        "categoria": {
+            "nombre": "Fajas",
+            "id": "fajas"
+        },
+        "precio": 19800
+    },
+    {
+        "id": "camisa01",
+        "titulo": "Camisa El Cimarron de Dama",
+        "imagen": "./Imagenes/camisas01.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "camisa02",
+        "titulo": "Camisa El Cimarron de Dama",
+        "imagen": "./Imagenes/camisas02.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 17000
+    },
+    {
+        "id": "camisa03",
+        "titulo": "Camisa de Hombre FTL",
+        "imagen": "./Imagenes/camisa06.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 12800
+    },
+    {
+        "id": "camisa04",
+        "titulo": "Camisa de Niño El Cimarron",
+        "imagen": "./Imagenes/camisa07.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 16400
+    },
+    {
+        "id": "camisa05",
+        "titulo": "Camisa de Hombre FTL",
+        "imagen": "./Imagenes/camisa08.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 12800
+    },
+    {
+        "id": "camisa06",
+        "titulo": "Camisa de Niño El Cimarron",
+        "imagen": "./Imagenes/camisa09.jpeg",
+        "categoria": {
+            "nombre": "Camisas",
+            "id": "camisas"
+        },
+        "precio": 16400
+    },
+    {
+        "id": "campera01",
+        "titulo": "Campera Matelasse de Dama",
+        "imagen": "./Imagenes/campera01.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 32200
+    },
+    {
+        "id": "campera02",
+        "titulo": "Campera Matelasse de Dama",
+        "imagen": "./Imagenes/campera02.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 32200
+    },
+    {
+        "id": "campera03",
+        "titulo": "Campera Matelasse de Dama",
+        "imagen": "./Imagenes/campera03.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 32200
+    },
+    {
+        "id": "campera04",
+        "titulo": "Campera Matelasse de Dama",
+        "imagen": "./Imagenes/campera04.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 32200
+    },
+    {
+        "id": "campera05",
+        "titulo": "Campera Matelasse de Dama",
+        "imagen": "./Imagenes/campera05.jpeg",
+        "categoria": {
+            "nombre": "Camperas",
+            "id": "camperas"
+        },
+        "precio": 32200
+    },
+    {
+        "id": "faja03",
+        "titulo": "Fajas Pampa",
+        "imagen": "./Imagenes/faja01.jpeg",
+        "categoria": {
+            "nombre": "Fajas",
+            "id": "fajas"
+        },
+        "precio": 9900
+    },
+    {
+        "id": "faja03",
+        "titulo": "Fajas Pampa",
+        "imagen": "./Imagenes/faja01.jpeg",
+        "categoria": {
+            "nombre": "Fajas",
+            "id": "fajas"
+        },
+        "precio": 9900
+    },
+    {
+        "id": "bombacha01",
+        "titulo": "Bombachas de gabardina elastizadas",
+        "imagen": "./Imagenes/bombachas01.jpeg",
+        "categoria": {
+            "nombre": "Bombachas",
+            "id": "bombachas"
+        },
+        "precio": 16100
+    },
+    {
+        "id": "bombacha02",
+        "titulo": "Bombachas de gabardina elastizadas",
+        "imagen": "./Imagenes/bombacha02.jpeg",
+        "categoria": {
+            "nombre": "Bombachas",
+            "id": "bombachas"
+        },
+        "precio": 16100
+    },
+    {
+        "id": "bombacha03",
+        "titulo": "Bombachas de gabardina elastizadas",
+        "imagen": "./Imagenes/bombacha03.jpeg",
+        "categoria": {
+            "nombre": "Bombachas",
+            "id": "bombachas"
+        },
+        "precio": 16100
+    },
+    {
+        "id": "bombacha04",
+        "titulo": "Bombachas de gabardina elastizadas",
+        "imagen": "./Imagenes/bombacha04.jpeg",
+        "categoria": {
+            "nombre": "Bombachas",
+            "id": "bombachas"
+        },
+        "precio": 16100
+    },
+    {
+        "id": "bombacha05",
+        "titulo": "Bombachas de gabardina elastizadas",
+        "imagen": "./Imagenes/bombacha05.jpeg",
+        "categoria": {
+            "nombre": "Bombachas",
+            "id": "bombachas"
+        },
+        "precio": 16100
+    }
+]
