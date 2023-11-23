@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Formulario de Pago</title>
+   <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Etiqueta Criolla</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="/Css/main.css">
+</head>
+<body>
+   <h2>Formulario de Pago</h2>
+   <form action="/ruta-de-procesamiento" method="post">
+       <label for="tarjeta">Número de tarjeta:</label><br>
+       <input type="text" id="tarjeta" name="tarjeta"><br>
+       <label for="fecha">Fecha de caducidad:</label><br>
+       <input type="date" id="fecha" name="fecha"><br>
+       <label for="codigo">Código de seguridad (3 dígitos):</label><br>
+       <input type="text" id="codigo" name="codigo"><br>
+       <label for="nombre">Nombre y apellido:</label><br>
+       <input type="text" id="nombre" name="nombre"><br>
+       <label for="localidad">Localidad:</label><br>
+       <input type="text" id="localidad" name="localidad"><br>
+       <label for="pais">País:</label><br>
+       <input type="text" id="pais" name="pais"><br>
+       <label for="telefono">Teléfono:</label><br>
+       <input type="tel" id="telefono" name="telefono"><br>
+       <input type="submit" value="Enviar">
+   </form>
+</body>
+</html>
